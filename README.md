@@ -1,0 +1,2 @@
+# Mobile-ordering-system-using-vb.net
+The goal was to create a website to improve customer knowledge and information on mobile phones . This was done in order to get better understanding of the skills by comparing of different mobile concerns that are needed in the area of websites design and development  . There were many things that were taken in order to submit a successful project such as market research ,identifying customers etc… 
